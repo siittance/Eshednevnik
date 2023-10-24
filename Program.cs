@@ -17,6 +17,7 @@ namespace Eshednevnik
         diaries.Add(new Diary("Выпить пива", "просто хочу пива", new DateTime(2023, 10, 23)));
         diaries.Add(new Diary("Закадрить мальчика", "просто хочу мальчика", new DateTime(2023, 10, 24)));
         diaries.Add(new Diary("Выпить пива", "мальчика закадрить не удалось", new DateTime(2023, 10, 25)));
+        diaries.Add(new Diary("Тяжело", "план не существует", new DateTime(2023, 10, 25)));
         diaries.Add(new Diary("Сидеть дома", "ушла в депрессию", new DateTime(2023, 10, 26)));
         diaries.Add(new Diary("Все решено!", "нашла другого", new DateTime(2023, 10, 27)));
             CursorVisible = false;
